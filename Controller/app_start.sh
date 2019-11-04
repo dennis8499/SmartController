@@ -8,5 +8,5 @@ sudo cp ~/asoundrc ~/.asoundrc
 amixer set 'MI Portable Bluetooth - A2DP' -- 85%
 sudo cp ~/asoundrc ~/.asoundrc
 cd /home/pi/project
-python newmain0711.py
+python main.py
 
