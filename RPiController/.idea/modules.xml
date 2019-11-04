@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/RPiController.iml" filepath="$PROJECT_DIR$/RPiController.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/huecppsdk-wrapper/huecppsdk-wrapper.iml" filepath="$PROJECT_DIR$/huecppsdk-wrapper/huecppsdk-wrapper.iml" />
+      <module fileurl="file://$PROJECT_DIR$/huecppsdk-wrapper-javadoc/huecppsdk-wrapper-javadoc.iml" filepath="$PROJECT_DIR$/huecppsdk-wrapper-javadoc/huecppsdk-wrapper-javadoc.iml" />
+    </modules>
+  </component>
+</project>
